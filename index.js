@@ -7,31 +7,31 @@ module.exports = {
   plugin_name: "tabler-icons",
   headers: [
     {
-      css: "/plugins/public/tabler-icons/tabler-icons-200-filled.css",
+      css: "/plugins/public/tabler-icons/tabler-icons-200-filled.min.css",
     },
     {
-      css: "/plugins/public/tabler-icons/tabler-icons-200-outline.css",
+      css: "/plugins/public/tabler-icons/tabler-icons-200-outline.min.css",
     },
     {
-      css: "/plugins/public/tabler-icons/tabler-icons-200.css",
+      css: "/plugins/public/tabler-icons/tabler-icons-200.min.css",
     },
     {
-      css: "/plugins/public/tabler-icons/tabler-icons-300-filled.css",
+      css: "/plugins/public/tabler-icons/tabler-icons-300-filled.min.css",
     },
     {
-      css: "/plugins/public/tabler-icons/tabler-icons-300-outline.css",
+      css: "/plugins/public/tabler-icons/tabler-icons-300-outline.min.css",
     },
     {
-      css: "/plugins/public/tabler-icons/tabler-icons-300.css",
+      css: "/plugins/public/tabler-icons/tabler-icons-300.min.css",
     },
     {
-      css: "/plugins/public/tabler-icons/tabler-icons-filled.css",
+      css: "/plugins/public/tabler-icons/tabler-icons-filled.min.css",
     },
     {
-      css: "/plugins/public/tabler-icons/tabler-icons-outline.css",
+      css: "/plugins/public/tabler-icons/tabler-icons-outline.min.css",
     },
     {
-      css: "/plugins/public/tabler-icons/tabler-icons.css",
+      css: "/plugins/public/tabler-icons/tabler-icons.min.css",
     },
   ],
   icons: icons.map((icon) => `ti ti-${icon}`),
